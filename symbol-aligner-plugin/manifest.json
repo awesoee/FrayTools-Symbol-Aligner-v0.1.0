@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "type": "MetadataDefinitionPlugin",
+  "id": "my.example.metadata.definition.plugin",
+  "name": "Symbol Aligner",
+  "description": "test description"
+}
