@@ -1,0 +1,3 @@
+FrayTools Metadata Defintion Plugin Example + Fraytools Plugin Core by McLeodGaming inc.
+
+Source code for Fraytools' Metadata Plugin by Team Fray LLC.
