@@ -7,7 +7,7 @@ var HtmlWebpackPlugin = require('html-webpack-plugin');
 var CopyPlugin = require('copy-webpack-plugin');
 
 module.exports = (env) => {
-  var pluginName = 'MyMetadataDefinitionPlugin';
+  var pluginName = 'symbol-aligner-plugin-source';
   var pluginOutputPath = path.resolve(__dirname, 'dist/' + pluginName);
 
   if (env.testing) {
