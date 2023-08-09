@@ -1,11 +1,11 @@
 {
-  "name": "@fraymakers/metadata-plugin",
-  "version": "0.2.0",
-  "description": "Source code for the Fraymakers Metadata Defintion Plugin for FrayTools.",
+  "name": "@awesoee/symbol-aligner-plugin",
+  "version": "0.1.0",
+  "description": "Source code for the FrayTools Symbol Aligner plugin.",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/fraymakers/metadata-plugin"
+    "url": "https://github.com/awesoee/FrayTools-Symbol-Aligner-v0.1.0"
   },
   "engines": {
     "node": ">=16.0.0"
